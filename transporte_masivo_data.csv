@@ -1,0 +1,7 @@
+Estacion_Inicio,Estacion_Fin,Distancia_km,Tiempo_Minutos,Flujo_Pasajeros
+Estacion_A,Estacion_B,5,10,200
+Estacion_B,Estacion_C,3,7,150
+Estacion_C,Estacion_D,7,15,250
+Estacion_A,Estacion_C,8,18,300
+Estacion_B,Estacion_D,10,22,100
+Estacion_A,Estacion_D,12,25,180
